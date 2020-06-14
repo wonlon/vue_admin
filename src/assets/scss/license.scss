@@ -1,0 +1,20 @@
+.licenseContainer{
+
+    flex: 1;
+    background-color: #ebedf0;
+    display: flex;
+    flex-direction: column;
+}
+.searchContainer{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin: 20px 20px 0 20px;
+    height: 80px;
+    background-color: #ffffff;
+    position: sticky;
+}
+
+.licenseChartContainer{
+    padding: 0 20px;
+}

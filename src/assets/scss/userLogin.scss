@@ -1,0 +1,23 @@
+.userContainer{
+    background-color: #ebedf0;
+    flex: 1;
+    overflow: scroll;
+}
+.userChartContainer{
+    margin: 20px auto;
+    margin-bottom: 50px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.searchUserLoginContainer{
+    display: flex;
+    margin: 20px 20px 10px 20px;
+    justify-content:center;
+    align-items:center;
+}
+.userchart-container{
+    padding: 10px;
+  }

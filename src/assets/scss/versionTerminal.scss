@@ -1,0 +1,36 @@
+#myChartTplayer{
+  width: 100%;
+  min-height: 300px;
+  clear: both;
+  box-sizing: border-box;
+  margin: 30px auto;
+
+}
+#myChartVplayer{
+  width: 100%;
+  min-height: 300px;
+  clear: both;
+  box-sizing: border-box;
+  margin: 30px auto;
+
+}
+.versionContainer{
+  padding-left: 20px;
+  overflow: scroll;
+    background-color: #ebedf0;
+    height: 100%;
+}
+.versionHeightChart,.versionTableBak{
+  background-color: #ffffff;
+}
+
+.el-table, .warning-row {
+  background: oldlace;
+}
+.el-table, .success-row {
+  background: #f0f9eb;
+}
+
+.versionTable{
+  padding: 20px 20px ;
+}

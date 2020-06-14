@@ -1,0 +1,13 @@
+
+.registerMonthContainer{
+    display: flex;
+    flex: 1;
+    background-color: #ebedf0;
+    justify-content: center;
+    align-items: center;
+}
+.registerMonthChartContainer{
+    width: 90%;
+    height: 85vh;//calc(100vh - 84px);
+    align-self:center;
+}
